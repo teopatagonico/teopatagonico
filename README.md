@@ -8,3 +8,4 @@ Me gustan varias cosas, por ejemplo:
 * La música (toco el piano, canto y grabo mis propias canciones)
 * La fotografía
 * Aprender y hablar inglés
+![Badge](https://bit.ly/icom-badge)
